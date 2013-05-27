@@ -1,4 +1,5 @@
-var obs = require('../src/underscore-observable');
+var Observable = require('../src/underscore-observable');
+var obs =new Observable();
 
 obs.emit('shit', 'do it');
 
