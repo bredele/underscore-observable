@@ -1,0 +1,10 @@
+{
+  "name": "underscore-observable",
+  "version": "0.0.0",
+  "main": "src/underscor-observable.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
